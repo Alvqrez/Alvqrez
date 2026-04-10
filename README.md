@@ -10,10 +10,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvqrez&theme=onedark-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
-![Alvarez GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvqrez&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvqrez&show_icons=true&theme=tokyonight)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvqrez&layout=compact&theme=tokyonight)](https://github.com/Alvqrez)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvqrez&layout=compact&theme=tokyonight)](https://github.com/Alvqrez)
 ## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +32,4 @@
 - 🚀 Interested in startups and building products
 - 📚 Currently learning backend and software architecture
 - 🎸 I also enjoy playing guitar
-
-
 
