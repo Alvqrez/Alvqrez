@@ -1,5 +1,5 @@
 
-# Hey, I'm Alvarez!
+# Hey, I'm Leonardo — also known as Alvqrez.
 
 
 💻 Systems Engineering Student  
