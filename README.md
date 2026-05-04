@@ -33,3 +33,9 @@
 - 📚 Currently learning backend and software architecture
 - 🎸 I also enjoy playing guitar
 
+## Contact
+📩 alvqrez.dev@gmail.com
+🌐 alvqrez.github.io
+
+
+
