@@ -5,7 +5,7 @@
 💻 Systems Engineering Student  
 🛠 Computer Technician from Veracruz, México  
 🚀 Aspiring Founder  
-🌐 Building my [personal website] (WIP)
+🌐 Check my [personal website](https://alvqrez.github.io/)
 ## Github stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvqrez&theme=onedark-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
