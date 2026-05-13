@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://alvqrez.github.io/banner.png"
+    src="https://alvqrez.github.io/images/banner.png"
     alt="Alvqrez Banner"
     width="100%"
   />
