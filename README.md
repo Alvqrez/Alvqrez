@@ -8,8 +8,7 @@
 
 # Hey, I'm Leonardo — also known as Alvqrez.
 
-
-💻 Systems Engineering Student  
+ 
 🛠 Computer Technician from Veracruz, México  
 🚀 Aspiring Founder  
 🌐 Check my [personal website](https://alvqrez.github.io/)
