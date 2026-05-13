@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="https://alvqrez.github.io/banner.png"
+    alt="Alvqrez Banner"
+    width="100%"
+  />
+</p>
 
 # Hey, I'm Leonardo — also known as Alvqrez.
 
@@ -8,9 +15,9 @@
 🌐 Check my [personal website](https://alvqrez.github.io/)
 ## Github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alvqrez&theme=onedark-duo&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alvqrez&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvqrez&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvqrez&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvqrez&layout=compact&theme=tokyonight)](https://github.com/Alvqrez)
 ## Tech Stack
@@ -20,6 +27,9 @@
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Server:** Node, Express
 ## Social Media
