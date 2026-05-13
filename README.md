@@ -1,3 +1,5 @@
+# Hey, I'm Leonardo — also known as Alvqrez.
+
 <p align="center">
   <img 
     src="https://alvqrez.github.io/images/banner.png"
@@ -6,7 +8,6 @@
   />
 </p>
 
-# Hey, I'm Leonardo — also known as Alvqrez.
 
  
 🛠 Computer Technician from Veracruz, México  
