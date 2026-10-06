@@ -14,13 +14,13 @@
 
 ---
 
-## 💡 About
+## About
 
 Full-stack developer building scalable, maintainable software products. Specialized in mobile development (Flutter/Dart) and backend systems. Pragmatic approach to architecture, performance-conscious, and focused on clean code patterns. Currently developing **Vexa Finance**, a personal finance management app, while exploring automation and fintech opportunities.
 
 ---
 
-## 🎯 Featured Project
+## Featured Project
 
 ### **Vexa Finance** | Personal Finance Manager
 **Tech Stack:** Flutter · Dart · REST APIs · State Management  
@@ -28,15 +28,15 @@ A mobile-first personal finance application with real-time expense tracking, bud
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 
-**💻 Languages**  
+**Languages**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**📱 Mobile & Frontend**  
+**Mobile & Frontend**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -50,7 +50,7 @@ A mobile-first personal finance application with real-time expense tracking, bud
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -64,4 +64,4 @@ A mobile-first personal finance application with real-time expense tracking, bud
 
 ---
 
-✨ **Open to:** Collaboration on fintech projects · Backend architecture challenges · Local tech partnerships
+**Open to:** Collaboration on fintech projects · Backend architecture challenges · Local tech partnerships
